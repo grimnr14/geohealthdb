@@ -1,0 +1,71 @@
+Table with row headers in column A and column headers in rows 4 through 5. (Leading dots indicate subparts),,,,,,,
+"Table 2. Percent Holding Debt for Households, by Type of Debt and States: 2020",,,,,,,
+State,Number of Households (thousands),Any Debt,Secured Debt,,,Unsecured Debt,
+,,Total Debt,Total,Home Debt,Vehicle Debt,Total,Credit Card Debt
+Total,131500,73.9,53.7,36.5,32.9,55.4,41.8
+State,,,,,,,
+Alabama,2036,73.2,52.3,36,34.5,53.5,40.2
+Alaska,293,72.6,47.5,35.6,22.1,57.3,43.6
+Arizona,2995,77.4,57.6,38.6,33.3,59.6,47.5
+Arkansas,1243,72,52.5,30.5,37.2,57.9,40.8
+California,14160,73,51.4,35.1,27.5,53.9,44.6
+Colorado,2389,79.3,60.5,42.6,35.9,57.7,40.2
+Connecticut,1350,79.3,57.9,42.9,29.6,64.3,49.1
+Delaware,383,78.5,63.9,46.6,42.2,56.7,48.7
+District of Columbia,344,75.5,42.1,31.8,15.1,63.5,45.7
+Florida,9010,73.7,54.1,35.3,33.4,55.6,45.4
+Georgia,4156,79.3,57.6,39,37.4,59.9,42.6
+Hawaii,515,67.8,59.8,44.2,22.5,36,28.6
+Idaho,691,81.7,66.4,45.6,32.8,55,40.5
+Illinois,5029,76.8,55.2,37.4,34.5,58.2,41.3
+Indiana,2830,71.3,54.7,43.5,31.2,52.2,36.6
+Iowa,1349,72.2,52.6,36.4,36.9,50.9,28.4
+Kansas,1243,63,46.8,32.9,28.8,45.6,30.2
+Kentucky,1889,68.7,49.5,35.9,28.7,54.4,37.2
+Louisiana,1874,68.3,55.3,34.6,38.1,49.7,32.9
+Maine,629,69.5,55.9,41.8,35.3,55.7,35.6
+Maryland,2394,79,62,43.3,40.9,58.1,44.1
+Massachusetts,2869,72.8,55.6,41.2,28.7,55.2,44
+Michigan,4185,75.5,53.4,40,30.6,58.5,45.2
+Minnesota,2335,80.2,67.1,53.5,37.8,51.6,38.4
+Mississippi,1257,74.5,49.7,28.6,38.1,59.5,37.8
+Missouri,2568,71.3,54.3,34.2,36.7,52.1,36.6
+Montana,484,68.6,45.9,31.3,27.3,51.2,33.4
+Nebraska,854,73.5,56.9,36.8,35.6,55.5,40.4
+Nevada,1223,68.6,45.2,30.3,23.4,51.1,42.4
+New Hampshire,559,79.5,59.5,34,37,58,42.8
+New Jersey,3426,77.5,55,45.7,26,59.4,48.2
+New Mexico,849,71.2,52.9,28.9,41.6,57.1,37.7
+New York,7693,65.8,37.5,25.9,19.2,54.3,43
+North Carolina,4407,78.6,59.1,36.6,41.1,60.3,45.4
+North Dakota,303,72.3,65.5,35.1,51.5,52.2,35.9
+Ohio,4821,75.4,53.7,34.8,35.5,57.1,42.6
+Oklahoma,1598,76.7,55.8,36.1,38.1,58.2,36.1
+Oregon,1622,74.5,56.8,42.2,30,49.7,36.8
+Pennsylvania,5248,71.8,51.7,34.6,34,53.1,41.1
+Rhode Island,458,78,51.6,28.4,32.9,61.5,57.3
+South Carolina,2156,75.3,50,33,32.2,57.3,39.8
+South Dakota,338,80.2,53.6,37.8,43.4,65.7,48.7
+Tennessee,2872,72.3,54.2,34.6,36.5,53.2,39.5
+Texas,11180,73.3,52.3,30.2,36,55.9,41.9
+Utah,1152,73.9,60.3,47.9,35.5,54.2,38.8
+Vermont,254,80.7,61,41.8,45.5,66.7,44.1
+Virginia,3386,79.8,61.4,44.6,36.3,58.4,41.3
+Washington,3144,72.8,53.9,39.6,30.3,54.2,41.8
+West Virginia,703,74.1,53.2,33.6,42.4,49.9,38.8
+Wisconsin,2516,72,59,40.4,39.4,47.9,31.8
+Wyoming,281,77.4,63.4,46.6,43.7,42.9,24
+Footnotes:,,,,,,,
+"NOTE: Sample excludes group quarters and households in which the household reference person was either living outside the United States in December, living in institutionalized group quarters in December, or was living in a non-permanent accommodation in December. Number of households has been rounded to four significant digits. (D) - Cell suppressed due to a small number of observations. 'Total Secured Debt' includes debt on rental property and real estate in addition to home, vehicle, and business debt. 'Total Unsecured Debt' includes credit card debt, student loans, medical debt, and other debt (such as loans obtained through a bank or credit union, money owed to private individuals, or debt held against mutual funds or stocks). The Census Bureau's Statistical Quality Standards indicate that serious data quality issues related to sampling error occur when the estimated coefficients of variation (defined as a standard error divided by its point estimate) for the majority of the key estimates are larger than 0.3. While this table package meets the Statistical Quality Standards, use caution with estimates having coefficients of variation larger than 0.3 in absolute value as they may suffer from data quality issues. Standard errors for point estimates in this table are in Table 2A. The estimates in this table are based on responses from a sample of the population and may differ from the actual values because of sampling variability and other factors. As a result, apparent differences between the estimates for two or more groups may not be statistically significant. For information on sampling and nonsampling error see: https://www.census.gov/programs-surveys/sipp/methodology/sampling.html. For technical documentation and more information about SIPP data quality, please visit the SIPP Technical Documentation page at https://www.census.gov/programs-surveys/sipp/tech-documentation.html.",,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"Source: U.S. Census Bureau, Survey of Income and Program Participation, Survey Year 2021, Public Use Data",,,,,,,
+Internet Release Date: 08/31/2022,,,,,,,
